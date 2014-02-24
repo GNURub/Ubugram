@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "Ubugram",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "Telegram": {
+            "apparmor": "Telegram.json",
+            "desktop": "Telegram.desktop"
+        }
+    },
+    "maintainer": "Rubén Cid & Dani Juan",
+    "name": "com.ubuntu.developer.gnurub.ubugram",
+    "title": "Ubugram",
+    "version": "0.1"
+}
